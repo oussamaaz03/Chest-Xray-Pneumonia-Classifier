@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg )](https://colab.research.google.com/github/oussamaaz03/Chest-Xray-Pneumonia-Classifier/blob/main/pneumonia_detection_notebook.ipynb )
+
 # Pneumonia Detection from Chest X-rays using Deep Learning
 
 A deep learning project to classify chest X-ray images for pneumonia detection, built with TensorFlow and Keras. This repository documents the process of building, training, and evaluating several Convolutional Neural Network (CNN) models.
