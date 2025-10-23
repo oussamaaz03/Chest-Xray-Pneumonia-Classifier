@@ -65,8 +65,8 @@ Here is a summary of the final test accuracy for each model:
 
 The learning curves clearly show that the VGG16 model is the most reliable.
 
-![Learning Curves VGG16](URL_TO_YOUR_VGG16_PLOT_IMAGE_HERE)
-*(Take a screenshot of your VGG16 plots, upload it to the repo, and link it here.)*
+![Learning Curves VGG16]https://github.com/oussamaaz03/Chest-Xray-Pneumonia-Classifier/blob/main/vgg16_learning_curves.png?raw=true
+
 ---
 
 ## 🚀 How to Use
